@@ -1,0 +1,22 @@
+{
+  "name": "lodash-test",
+  "version": "1.0.0",
+  "description": "\"# lodash-test\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suyeon9456/lodash-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suyeon9456/lodash-test/issues"
+  },
+  "homepage": "https://github.com/suyeon9456/lodash-test#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
